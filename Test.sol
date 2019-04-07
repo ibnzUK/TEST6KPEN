@@ -4,7 +4,7 @@ pragma solidity ^0.4.23;
 // 6KPEN_Token TRC20 Token
 // Symbol         : 6KPEN
 // Name           : 6KPEN_Token
-// Total supply   : 1 000 000 000
+// Total supply   : 1 000 000
 // Decimals       : 18
 //
 // (c) by Justinas K
